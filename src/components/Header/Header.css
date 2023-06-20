@@ -1,0 +1,17 @@
+.headerParent a {
+    text-decoration: none;
+    color: #000;
+    margin: 10px;
+}
+
+.headerParent a:hover {
+    background-color: hsl(188.51deg 63.81% 58.82%);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.active {
+    background-color: hsl(188.51deg 63.81% 58.82%);
+    padding: 10px;
+    border-radius: 5px;
+}
